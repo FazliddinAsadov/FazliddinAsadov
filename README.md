@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm working with webbot and there are a lot of projects
+I am a highly motivated and results-oriented individual with a strong work ethic.I am always willing to help others.
+I am passionate about web development and I am always looking for new challenges. I am also a quick learner and I am always eager to learn new technologies.
 
 
 ## 🌐 Socials:
